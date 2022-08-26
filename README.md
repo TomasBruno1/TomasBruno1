@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasBruno1&theme=dracula&hide=Jupyter+Notebook&exclude_repo=PytorchQuickstart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TomasBruno1&theme=dracula)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=TomasBruno1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
