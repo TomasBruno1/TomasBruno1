@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomasBruno1
 - 👀 I’m interested in coding, duh...
-- 🌱 I’m currently studying to become a Software Engineer :D
+- 🌱 I’m currently working as a Software Engineer at Redmond Software :D
 - 💞️ I’m looking to collaborate on any project worth my while.
 - 📫 How to reach me? You can't. (jk, tomas.bruno@ing.austral.edu.ar)
 
