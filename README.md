@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TomasBruno1
-- 👀 I’m interested in coding, duh...
-- 🌱 I’m currently working as a Software Engineer at Redmond Software :D
-- 💞️ I’m looking to collaborate on any project worth my while.
-- 📫 How to reach me? You can't. (jk, tomas.bruno@ing.austral.edu.ar)
+- 🌱 I’m currently working as a Software Engineer at Code 54 :D
+- 💞️ I’m looking to collaborate on any fun and innovating project.
+- 📫 How to reach me? tomas.bruno@code54.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasBruno1&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
